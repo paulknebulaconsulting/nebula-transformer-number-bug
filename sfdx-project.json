@@ -1,0 +1,16 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "packageAliases": {
+    "Nebula Core": "04t6M000000kmQwQAI",
+    "Nebula Object Transformer": "04t6M000000kmTqQAI"
+  },
+  "name": "nebula-transformer-number-bug",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "55.0"
+}
